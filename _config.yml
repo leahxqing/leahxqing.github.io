@@ -11,7 +11,7 @@ locale                   : "China"
 title                    : "Xiangqing Wang"
 title_separator          : "-"
 name                     : &name "Xiangqing Wang"
-description              : &description "Hello!"
+description              : &description "Hello! I'm Xiangqing Wang, currently a 3rd year undergraduate from the Wang Yanan Institute for Studies in Economics, Xiamen University. My major is economics and my personal field of interest is urban economics. I am also attending the minor program of statistics from WISE. If you have any question or thoughts to me, feel free to contact me through email!"
 url                      : https://leahxqing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leahxqing/leahxqing.github.io"
@@ -25,8 +25,8 @@ author:
   name             : "Xiangqing Wang"
   pronouns         : # example: "she/her"  
   bio              : "Basic Information Here."
-  location         : "Earth"
-  employer         : "The Wang Yanan Institute for Studies in Economics, Xiamen University"
+  location         : "Zhejiang"
+  employer         : "Xiamen University"
   uri              : # URL
   email            : "wangxq2003@outlook.com" 
 
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "leahxqing"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
