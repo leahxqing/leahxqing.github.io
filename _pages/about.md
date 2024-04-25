@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 <font color=blue>
+  
 - Website to be Developed. 
   
 - Now the homepage and CV are finished, while the rest are from templates.
