@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<font color=blue>- Website to be Developed. 
-- Now the homepage and CV is finished, while the rest are from templates.</font>
+<font color=blue>
+- Website to be Developed. 
+- Now the homepage and CV are finished, while the rest are from templates.</font>
 
 Hello! I'm Xiangqing Wang, currently a 3rd year undergraduate at the Wang Yanan Institute for Studies in Economics, Xiamen University. You can call me *Leah*, which is my English name. My major is economics and my personal field of interest is **urban economics**. I am also attending the minor program of statistics from WISE. If you have any questions or thoughts about me, feel free to contact me through email!
 
