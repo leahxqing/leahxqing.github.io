@@ -158,7 +158,7 @@ kramdown:
   enable_coderay: false
 
 
-Collections
+# Collections
 collections:
   teaching:
     output: true
@@ -176,7 +176,7 @@ collections:
 
 # Defaults
 defaults:
-  _posts
+ # _posts
   - scope:
       path: ""
       type: posts
