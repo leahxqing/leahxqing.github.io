@@ -1,7 +1,7 @@
 ---
 title: '1 QUESTIONS TO QUESTIONS'
 date: 2023-09-24
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/mostly_harmless_01/
 tags:
   - Econometrics
   - Book Reading
