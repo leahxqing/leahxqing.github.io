@@ -17,4 +17,4 @@ Background Information
 - Age: 20
 - Gender: Female
 - Institute: The Wang Yanan Institute for Studies in Economics, Xiamen University
-- Computer Skills: Stata (Proficient), Python (Proficient), $\LaTeX$ (Proficient), R (Learning)
+- Computer Skills: Stata (Proficient), Python (Proficient), $$\LaTeX$$ (Proficient), R (Learning)
