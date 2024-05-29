@@ -4,8 +4,6 @@ collection: talks
 type: "Course Projects"
 permalink: /talks/course_pre
 venue: "Xiamen University"
-date: 
-location: 
 ---
 
 |         Course        |    Time     |                                            Project Name                                            |            Note                 |   Slides     | Report       |
