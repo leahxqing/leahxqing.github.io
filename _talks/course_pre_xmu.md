@@ -4,8 +4,8 @@ collection: talks
 type: "Course Projects"
 permalink: /talks/course_pre_xmu
 venue: "Xiamen University"
-date:
-location:
+date: 2024-05-29
+location: "Xiamen University"
 ---
 
 |         Course        |    Time     |                                            Project Name                                            |            Note                 |   Slides     | Report       |
