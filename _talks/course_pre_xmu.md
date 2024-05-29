@@ -2,7 +2,7 @@
 title: "Selected Course Presentations in XMU"
 collection: talks
 type: "Course Projects"
-permalink: /talks/course_pre
+permalink: /talks/course_pre_xmu
 venue: "Xiamen University"
 ---
 
