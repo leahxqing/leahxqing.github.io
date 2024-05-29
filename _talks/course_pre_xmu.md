@@ -9,7 +9,7 @@ location: "Xiamen University"
 ---
 There are my presentations on some selected course projects in XMU. 
 
-Some of them may look very simple and callow, but I do think it's worth recording and trying to improve myself through this process. And for some really really innocent work, I just try to hide it :grin:.
+Some of them may look very simple and callow, but I do think it's worth recording and trying to improve myself through this process. And for some really really innocent work, I just try to hide it 😁.
 
 
 |         Course        |    Time     |                                            Project Name                                            |            Note                 |   Slides     | Report       |
