@@ -16,7 +16,7 @@ Background Information
 - Name: Xiangqing Wang (王湘晴)
 - Age: 21
 - Gender: Female
-- MBTI: ![INFJ-T](https://www.16personalities.com/profiles/633d9485f4235)
+- MBTI: [INFJ-T](https://www.16personalities.com/profiles/633d9485f4235)
 - Institute: The Wang Yanan Institute for Studies in Economics, Xiamen University
 - Computer Skills: Stata (Proficient), Python (Proficient), $$\LaTeX$$ (Proficient), R (Learning)
 - Email: wangxq2003@outlook.com
