@@ -1,8 +1,10 @@
 ---
-layout: archive
+layout: single
 title: "Research"
 permalink: /research/
 author_profile: false
+redirect_from:
+  - /research
 ---
 
 ## Work-in-progress
