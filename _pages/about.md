@@ -11,8 +11,7 @@ Hello! I'm Xiangqing Wang, a fourth-year undergraduate at the Wang Yanan Institu
 
 > Rejection Means Redirection 🌌
 
-Background Information
-=====
+## Background Information
 - Name: Xiangqing Wang (王湘晴)
 - Age: 21
 - Gender: Female
