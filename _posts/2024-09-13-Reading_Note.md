@@ -1,7 +1,9 @@
 ---
 title: 'Reading Note'
 date: 2024-09-13
-permalink: /posts/note/
+permalink: /posts/reading_note/
+tags:
+  - Reading
 ---
 This page contains reading notes for some of the books or chapters I've read.
 
