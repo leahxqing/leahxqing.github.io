@@ -10,5 +10,5 @@ This page contains reading notes for some of the books or chapters I've read.
 
 |        Title         |         Book         |                 
 | -------------------- | -------------------- |
-| [Parametric Regression Analysis](http://leahxqing.github.io/posts/2024-04-29-CS.md) | [计算社会科学导论](https://book.douban.com/subject/36603927/) |
+| [Parametric Regression Analysis](http://leahxqing.github.io/posts/notes/2024-04-29-CS.md) | [计算社会科学导论](https://book.douban.com/subject/36603927/) |
 
