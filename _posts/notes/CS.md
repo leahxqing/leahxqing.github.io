@@ -1,7 +1,6 @@
 ---
 title: 'Parametric Regression Analysis'
 date: 2024-04-29
-permalink: /posts/ml/
 tags:
   - Machine Learning
   - Python
