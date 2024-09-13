@@ -1,7 +1,6 @@
 ---
 title: '2 THE EXPERIMENTAL IDEAL'
 date: 2023-09-24
-toc: true
 tags:
   - Econometrics
   - Book Reading
