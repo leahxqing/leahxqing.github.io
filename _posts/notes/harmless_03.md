@@ -1,7 +1,6 @@
 ---
 title: '3 MAKING REGRESSION MAKE SENSE'
 date: 2023-09-24
-permalink: /posts/mostly_harmless_03/
 tags:
   - Econometrics
   - Book Reading
