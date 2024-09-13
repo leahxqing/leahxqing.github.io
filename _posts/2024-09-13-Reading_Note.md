@@ -1,6 +1,6 @@
 ---
 title: 'Reading Note'
-date: 2024-07-20
+date: 2024-09-13
 permalink: /posts/reading_note/
 ---
 
