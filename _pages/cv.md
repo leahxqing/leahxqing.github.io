@@ -10,4 +10,4 @@ paperurl: 'http://leahxqing.github.io/files/CV_wxq_0914.pdf'
 
 {% include base_path %}
 
-You can find my CV [here](http://leahxqing.github.io/files/CV_wxq_0425.pdf) (updated version: 0914).
+You can find my CV [here](http://leahxqing.github.io/files/CV_wxq_0914.pdf) (updated version: 20240914).
