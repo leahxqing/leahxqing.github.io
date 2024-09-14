@@ -1,8 +1,8 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 paperurl: 'http://leahxqing.github.io/files/CV_wxq_0914.pdf'

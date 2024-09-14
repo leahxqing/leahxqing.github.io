@@ -1,13 +1,11 @@
 ---
 title: '3 MAKING REGRESSION MAKE SENSE'
 date: 2023-09-24
-permalink: /posts/mostly_harmless_03/
 tags:
   - Econometrics
   - Book Reading
   - Mostly Harmless
 ---
-
 This is the third chapter *Making Regression Make Sense* from *Mostly Harmless Econometrics*. You can also refer to my wechat account's post [here](https://mp.weixin.qq.com/s/0NsDNFkb6Y-MQvDDNy0E4A).
 
 

@@ -1,8 +1,6 @@
 ---
 title: '2 THE EXPERIMENTAL IDEAL'
 date: 2023-09-24
-toc: true
-permalink: /posts/mostly_harmless_02/
 tags:
   - Econometrics
   - Book Reading

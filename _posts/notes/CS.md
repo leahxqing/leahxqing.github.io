@@ -1,12 +1,10 @@
 ---
 title: 'Parametric Regression Analysis'
 date: 2024-04-29
-permalink: /posts/ml/
 tags:
   - Machine Learning
   - Python
 ---
-
 Reading Note for *Introduction to Computational Science*.
 
 ## Overfitting & Underfitting
@@ -70,17 +68,7 @@ Reading Note for *Introduction to Computational Science*.
         $$
         
 - Parameter Tuning — $$ \lambda $$
-    - Ridge Trace
-- Example: Residents’ Welfare
-    
-    ```python
-    import pandas as pd
-    import numpy as np
-    # read csv files x, y
-    # skelearn model: train_test_split
-    from skelearn.model_selection import train_test_split
-    X_train, X_test, y_train, y_test = train_test_split(x,y, test_size=.3. random_state=728)
-    ```
+  
 ## LASSO
 
 - Loss function
