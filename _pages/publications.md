@@ -14,4 +14,4 @@ Abstract: Home delivery reduced the value of cities as locations to access varie
 Link: [https://cep.lse.ac.uk/_NEW/PUBLICATIONS/abstract.asp?index=11134](https://cep.lse.ac.uk/_NEW/PUBLICATIONS/abstract.asp?index=11134)
 
 ## Working-in-progress
-### 
+### Will Subsidy Enhance Regional Innovation? From the Aspect of Cheap Land Price
