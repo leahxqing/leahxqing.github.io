@@ -17,6 +17,7 @@ Hello! I'm Xiangqing Wang (王湘晴 in Chinese), a fourth-year undergraduate at
 - Gender: Female
 - MBTI: INFJ-T
 - Institute: The Wang Yanan Institute for Studies in Economics, Xiamen University
-- Major: Economics  |  Minor: Mathematical Statistics
+- Major: Economics
+- Minor: Mathematical Statistics
 - Computer Skills: Stata (Proficient), Python (Proficient), $$\LaTeX$$ (Proficient), R (Learning)
 - Email: wangxq2003@outlook.com; wangxq2003@gmail.com
