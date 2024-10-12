@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Xiangqing Wang, a fourth-year undergraduate at the Wang Yanan Institute for Studies in Economics (WISE), Xiamen University. You may also know me as Leah. My academic journey is centered around economics, with a particular focus on **urban economics**, and I am further enhancing my expertise through a minor study in statistics. I am always open to discussions and collaborations, so please feel free to reach out via email if you have any questions or ideas you'd like to share.
+Hello! I'm Xiangqing Wang (王湘晴 in Chinese), a fourth-year undergraduate at the Wang Yanan Institute for Studies in Economics (WISE), Xiamen University. You may also know me as Leah. My research field is Applied Economics, with special interests in Urban Economics and Labor Economics. I am always open to discussions and collaborations, so please feel free to reach out via email if you have any questions or ideas you'd like to share.
 
 > Rejection Means Redirection 🌌
 
@@ -17,5 +17,6 @@ Hello! I'm Xiangqing Wang, a fourth-year undergraduate at the Wang Yanan Institu
 - Gender: Female
 - MBTI: INFJ-T
 - Institute: The Wang Yanan Institute for Studies in Economics, Xiamen University
+- Major: Economics  |  Minor: Mathematical Statistics
 - Computer Skills: Stata (Proficient), Python (Proficient), $$\LaTeX$$ (Proficient), R (Learning)
 - Email: wangxq2003@outlook.com; wangxq2003@gmail.com
