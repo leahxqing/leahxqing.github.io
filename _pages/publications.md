@@ -16,4 +16,7 @@ Link: [CEP discussion paper](https://cep.lse.ac.uk/_NEW/PUBLICATIONS/abstract.as
 ## Working-in-progress
 ### Will Subsidy Enhance Regional Innovation? From the Aspect of Cheap Land Price
 
+- Present in *Conference on “Frontiers in Sustainable Development Studies,”* Nov 2-3, 2024, Xiamen University
+
 ### The Magnified Tradeoff: Evidence from the Equality-Oriented School Policy in China  
+
