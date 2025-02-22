@@ -5,7 +5,7 @@ permalink: /posts/replication/
 tags:
   - Reading
 ---
-This page contains literature replication code by me.
+This page contains literature replication code written by me.
 
 ## Table
 
