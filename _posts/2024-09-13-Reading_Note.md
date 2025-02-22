@@ -18,3 +18,10 @@ This page contains reading notes for some of the books or chapters I've read.
 | [Procedure in Machine Learning](https://github.com/leahxqing/reading/tree/main/notes/ML) | Kaggle, Lecture of Data Mining                               |
 | [The Mind Map for All Chapters](https://github.com/leahxqing/reading/tree/main/notes/LecturesOnUE) | Brueckner, J. K. (2011). *Lectures on Urban Economics*. The MIT Press. http://www.jstor.org/stable/j.ctt5hhcnn |
 
+
+
+<details>
+  <summary> Mind Map for Lectures on Urban Economics</summary>
+    <img src="https://github.com/leahxqing/reading/tree/main/notes/LecturesOnUE/key.png"alt="Overview of the Mind Map"title="Overview">
+</details>
+
