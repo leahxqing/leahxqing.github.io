@@ -7,21 +7,13 @@ layout: single
 
 ## Musicals
 
-### Don Juan
+### [Don Juan](https://en.wikipedia.org/wiki/Don_Juan_(musical))
 
-- [Introduction](https://en.wikipedia.org/wiki/Don_Juan_(musical)) from Wikipedia
+<img height = 400, width=300, src="http://leahxqing.github.io/sharing/musicals/DonJuan.JPG" alt="Don Juan" title="Don Juan">
 
-  - Photo
+<iframe height = 480, width = 200, src="//player.bilibili.com/player.html?isOutside=true&aid=1503906996&bvid=BV1PD421M796&cid=1527131388&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
-    <img height = 400, width=300, src="http://leahxqing.github.io/sharing/musicals/DonJuan.JPG" alt="Don Juan" title="Don Juan">
 
-    - Video
 
-      - Changer
 
-        <iframe height = 480, width = 200, src="//player.bilibili.com/player.html?isOutside=true&aid=1503906996&bvid=BV1PD421M796&cid=1527131388&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-      
-
-  
 
