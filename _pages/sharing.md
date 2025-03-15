@@ -9,10 +9,10 @@ layout: single
 
 ### [Don Juan](https://en.wikipedia.org/wiki/Don_Juan_(musical))
 
-<img style="width=60%;height=60%" src="http://leahxqing.github.io/sharing/musicals/DonJuan.JPG" alt="Don Juan" title="Don Juan">
+<img src="http://leahxqing.github.io/sharing/musicals/DonJuan.JPG" width="300" alt="Don Juan" title="Don Juan">
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1503906996&bvid=BV1PD421M796&cid=1527131388&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="100%" src="//player.bilibili.com/player.html?isOutside=true&aid=1503906996&bvid=BV1PD421M796&cid=1527131388&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
 
