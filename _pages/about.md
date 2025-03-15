@@ -13,11 +13,10 @@ Hello! I'm Xiangqing Wang (王湘晴 in Chinese), a fourth-year undergraduate at
 
 ## Background Information
 - Name: Xiangqing Wang (王湘晴)
-- Age: 21
-- Gender: Female
 - MBTI: INFJ-T
+- Hobbies: Musical, Badminton, Golf, Cycling 
 - Institute: The Wang Yanan Institute for Studies in Economics, Xiamen University
 - Major: Economics
 - Minor: Mathematical Statistics
 - Computer Skills: Stata (Proficient), Python (Proficient), $$\LaTeX$$ (Proficient), R (Learning)
-- Email: wangxq2003@outlook.com; wangxq2003@gmail.com
+- Email: [wangxq2003@outlook.com](mailto:wangxq2003@outlook.com); [wangxq2003@gmail.com](mailto:wangxq2003@gmail.com)
