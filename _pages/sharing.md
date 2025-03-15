@@ -1,5 +1,5 @@
 ---
-sharing/musicalspermalink: /sharing/
+permalink: /sharing/
 title: "Sharing"
 author_profile: false
 layout: single
