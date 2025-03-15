@@ -15,10 +15,6 @@ layout: single
 
 
 
-***
-
-
-
 ## Musicals
 
 ### [Don Juan](https://en.wikipedia.org/wiki/Don_Juan_(musical))
@@ -42,12 +38,6 @@ layout: single
   <summary>The cast meeting: Les fleurs du mal</summary>
     <iframe height="400" src="//player.bilibili.com/player.html?isOutside=true&aid=1853790565&bvid=BV1Rp421S7vp&cid=1527117707&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" title="Les fleurs du mal"></iframe>
 </details>
-
-
-
-
-
-***
 
 
 
@@ -82,15 +72,15 @@ layout: single
 ### Sunrise over Huangcuo Beach (黄厝沙滩), Xiamen, China
 
 <figure>
-  <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5274.JPG" width=200/>
-  <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5303.JPG" width=200/>
-  <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5310.JPG" width=200/>
+  <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5274.HEIC" width=200/>
+  <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5303.HEIC" width=200/>
+  <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5310.HEIC" width=200/>
 </figure>
 
 <figure>
   <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5200.JPG" width=200/>
-  <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5297.JPG" width=200/>
-  <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5308.JPG" width=200/>
+  <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5297.HEIC" width=200/>
+  <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5308.HEIC" width=200/>
 </figure>
 
 
