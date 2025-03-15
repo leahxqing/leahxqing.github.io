@@ -11,11 +11,9 @@ layout: single
 
 <img src="http://leahxqing.github.io/sharing/musicals/DonJuan.JPG" width="300" alt="Don Juan" title="Don Juan">
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-<iframe width="100%" height="100%" src="//player.bilibili.com/player.html?isOutside=true&aid=1503906996&bvid=BV1PD421M796&cid=1527131388&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+<iframe height="400" src="//player.bilibili.com/player.html?isOutside=true&aid=1503906996&bvid=BV1PD421M796&cid=1527131388&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" title="Changer"></iframe>
 
+<iframe height="400" src="//player.bilibili.com/player.html?isOutside=true&aid=1103975182&bvid=BV1Ww4m1C7zV&cid=1527135384&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" title="Seul"></iframe>
 
-
-
+<iframe height="400" src="//player.bilibili.com/player.html?isOutside=true&aid=1853790565&bvid=BV1Rp421S7vp&cid=1527117707&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" title="Les fleurs du mal"></iframe>
 
