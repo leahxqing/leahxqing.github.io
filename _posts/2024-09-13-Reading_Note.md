@@ -7,6 +7,19 @@ tags:
 ---
 This page contains reading notes for some of the books or chapters I've read.
 
+## Overview
+
+- [Parametric Regression Analysis](#Parametric-Regression-Analysis) [Book]
+- [Mostly Harmless Econometrics](#Mostly-Harmless-Econometrics) [Book]
+- [Procedure in Machine Learning](#Procedure-in-Machine-Learning) [Resources]
+- [Lecture on Urban Economics](#Lecture-on-Urban-Economics) [Book]
+
+
+
+***
+
+
+
 ## [Parametric Regression Analysis](https://github.com/leahxqing/reading/tree/main/notes/CS)
 
 - Book: [计算社会科学导论](https://book.douban.com/subject/36603927/)
