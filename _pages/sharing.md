@@ -7,13 +7,12 @@ layout: single
 
 ## Overview
 
-- [Musicals](#Musicals)
-  - [Don Juan](#Don-Juan)
-- [Scenery](#Scenery)
-  - [Xiamen Mountains-to-Sea Trail (厦门山海步道), China](#Xiamen-Mountains-to-Sea-Trail-(厦门山海步道),-China)
-  - [Sunrise over Huangcuo Beach (黄厝沙滩), Xiamen, China](#Sunrise-over-Huangcuo-Beach (黄厝沙滩),-Xiamen,-China)
-
-
+- [Overview](#overview)
+- [Musicals](#musicals)
+  - [Don Juan](#don-juan)
+- [Scenery](#scenery)
+  - [Xiamen Mountains-to-Sea Trail (厦门山海步道), China](#xiamen-mountains-to-sea-trail-厦门山海步道-china)
+  - [Sunrise over Huangcuo Beach (黄厝沙滩), Xiamen, China](#sunrise-over-huangcuo-beach-黄厝沙滩-xiamen-china)
 
 ## Musicals
 
