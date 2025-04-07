@@ -40,11 +40,10 @@ This page contains reading notes for some of the books or chapters I've read.
 
 - Source: Brueckner, J. K. (2011). *Lectures on Urban Economics*. The MIT Press. [http://www.jstor.org/stable/j.ctt5hhcnn](http://www.jstor.org/stable/j.ctt5hhcnn)
 
-  <details>
-    <summary> Overview</summary>
+  - Overview
     <img src="https://raw.githubusercontent.com/leahxqing/reading/main/notes/LecturesOnUE/key.png" alt="Overview of the Mind Map" title="Overview">
-  </details>
-
+  
+  
   <details>
     <summary> Details</summary>
     <img src="https://raw.githubusercontent.com/leahxqing/reading/main/notes/LecturesOnUE/ch1.png" alt="The Mind Map" title="Chapter 1">
