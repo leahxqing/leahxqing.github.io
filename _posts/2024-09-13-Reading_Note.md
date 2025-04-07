@@ -39,21 +39,20 @@ This page contains reading notes for some of the books or chapters I've read.
 ## Lecture on Urban Economics
 
 - Source: Brueckner, J. K. (2011). *Lectures on Urban Economics*. The MIT Press. [http://www.jstor.org/stable/j.ctt5hhcnn](http://www.jstor.org/stable/j.ctt5hhcnn)
+- Overview
+  <img src="https://raw.githubusercontent.com/leahxqing/reading/main/notes/LecturesOnUE/key.png" alt="Overview of the Mind Map" title="Overview">
 
-  - Overview
-    <img src="https://raw.githubusercontent.com/leahxqing/reading/main/notes/LecturesOnUE/key.png" alt="Overview of the Mind Map" title="Overview">
-  
-  
-  <details>
-    <summary> Details</summary>
-    <img src="https://raw.githubusercontent.com/leahxqing/reading/main/notes/LecturesOnUE/ch1.png" alt="The Mind Map" title="Chapter 1">
-    <img src="https://raw.githubusercontent.com/leahxqing/reading/main/notes/LecturesOnUE/ch23.png" alt="The Mind Map" title="Chapter 2 & 3">
-    <img src="https://raw.githubusercontent.com/leahxqing/reading/main/notes/LecturesOnUE/ch4.png" alt="The Mind Map" title="Chapter 4">
-    <img src="https://raw.githubusercontent.com/leahxqing/reading/main/notes/LecturesOnUE/ch5.png" alt="The Mind Map" title="Chapter 5">
-    <img src="https://raw.githubusercontent.com/leahxqing/reading/main/notes/LecturesOnUE/ch6.png" alt="The Mind Map" title="Chapter 6">
-    <img src="https://raw.githubusercontent.com/leahxqing/reading/main/notes/LecturesOnUE/ch7.png" alt="The Mind Map" title="Chapter 7">
-    <img src="https://raw.githubusercontent.com/leahxqing/reading/main/notes/LecturesOnUE/ch8.png" alt="The Mind Map" title="Chapter 8">
-    <img src="https://raw.githubusercontent.com/leahxqing/reading/main/notes/LecturesOnUE/ch9.png" alt="The Mind Map" title="Chapter 9">
-    <img src="https://raw.githubusercontent.com/leahxqing/reading/main/notes/LecturesOnUE/ch1011.png" alt="The Mind Map" title="Chapter 10 & 11">
-  </details>
+
+<details>
+  <summary> Details</summary>
+  <img src="https://raw.githubusercontent.com/leahxqing/reading/main/notes/LecturesOnUE/ch1.png" alt="The Mind Map" title="Chapter 1">
+  <img src="https://raw.githubusercontent.com/leahxqing/reading/main/notes/LecturesOnUE/ch23.png" alt="The Mind Map" title="Chapter 2 & 3">
+  <img src="https://raw.githubusercontent.com/leahxqing/reading/main/notes/LecturesOnUE/ch4.png" alt="The Mind Map" title="Chapter 4">
+  <img src="https://raw.githubusercontent.com/leahxqing/reading/main/notes/LecturesOnUE/ch5.png" alt="The Mind Map" title="Chapter 5">
+  <img src="https://raw.githubusercontent.com/leahxqing/reading/main/notes/LecturesOnUE/ch6.png" alt="The Mind Map" title="Chapter 6">
+  <img src="https://raw.githubusercontent.com/leahxqing/reading/main/notes/LecturesOnUE/ch7.png" alt="The Mind Map" title="Chapter 7">
+  <img src="https://raw.githubusercontent.com/leahxqing/reading/main/notes/LecturesOnUE/ch8.png" alt="The Mind Map" title="Chapter 8">
+  <img src="https://raw.githubusercontent.com/leahxqing/reading/main/notes/LecturesOnUE/ch9.png" alt="The Mind Map" title="Chapter 9">
+  <img src="https://raw.githubusercontent.com/leahxqing/reading/main/notes/LecturesOnUE/ch1011.png" alt="The Mind Map" title="Chapter 10 & 11">
+</details>
 
