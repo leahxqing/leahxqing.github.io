@@ -60,7 +60,6 @@ layout: single
 <figure>
   <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Mountains-to-Sea_Trail/IMG_0590.JPG" width=200/>
   <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Mountains-to-Sea_Trail/IMG_0601.JPG" width=200/>
-  <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Mountains-to-Sea_Trail/IMG_0609.JPG" width=200/>
 </figure>
 
 <figure>
@@ -82,7 +81,6 @@ layout: single
   <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5297.HEIC" width=200/>
   <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5308.HEIC" width=200/>
 </figure>
-
 
 
 
