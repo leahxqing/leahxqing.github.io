@@ -70,15 +70,15 @@ layout: single
 ### Sunrise over Huangcuo Beach (黄厝沙滩), Xiamen, China
 
 <figure>
-  <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5274.HEIC" width=200/>
-  <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5303.HEIC" width=200/>
-  <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5310.HEIC" width=200/>
+  <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5274.JPEG" width=200/>
+  <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5303.JPEG" width=200/>
+  <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5310.JPEG" width=200/>
 </figure>
 
 <figure>
   <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5200.JPG" width=200/>
-  <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5297.HEIC" width=200/>
-  <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5308.HEIC" width=200/>
+  <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5297.JPEG" width=200/>
+  <img src="http://leahxqing.github.io/sharing/scenery/Amoy_Huangcuo/IMG_5308.JPEG" width=200/>
 </figure>
 
 
