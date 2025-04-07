@@ -9,10 +9,11 @@ This page contains reading notes for some of the books or chapters I've read.
 
 ## Overview
 
-- [Parametric Regression Analysis](#Parametric-Regression-Analysis) [Book]
-- [Mostly Harmless Econometrics](#Mostly-Harmless-Econometrics) [Book]
-- [Procedure in Machine Learning](#Procedure-in-Machine-Learning) [Resources]
-- [Lecture on Urban Economics](#Lecture-on-Urban-Economics) [Book]
+- [Overview](#overview)
+- [Parametric Regression Analysis](#parametric-regression-analysis)
+- [Mostly Harmless Econometrics](#mostly-harmless-econometrics)
+- [Procedure in Machine Learning](#procedure-in-machine-learning)
+- [Lecture on Urban Economics](#lecture-on-urban-economics)
 
 
 
