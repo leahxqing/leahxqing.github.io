@@ -6,8 +6,8 @@ main:
   - title: "Research"
     url: /publication/
 
-  - title: "Presentations"
-    url: /talks/    
+  # - title: "Presentations"
+  #   url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
@@ -15,11 +15,11 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Learning"
-    url: /year-archive/
+  # - title: "Learning"
+  #   url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Sharing"
-    url: /sharing/
+  # - title: "Sharing"
+  #   url: /sharing/
