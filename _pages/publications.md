@@ -13,6 +13,8 @@ Abstract: Home delivery reduced the value of cities as locations to access varie
 
 Link: [LSE CEP Discussion Paper No. 2031](https://cep.lse.ac.uk/_NEW/PUBLICATIONS/abstract.asp?index=11134)
 
+- Present in *The 12th International Workshop on Regional, Urban, and Spatial Economics (RUSE) in China,* Jun 28-29, 2025, Wuhan University 
+
 ## Work-in-progress
 ### Will Subsidy Enhance Regional Innovation? From the Aspect of Cheap Land Price
 
