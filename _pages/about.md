@@ -11,3 +11,4 @@ redirect_from:
 
 Hello! I'm Xiangqing Wang (王湘晴 in Chinese), an incoming PhD student at Rotman School of Management, University of Toronto. My research interests lie in urban economics, spatial economics, and development economics. I’m always open to discussions and collaborations—please feel free to reach out via email[(xiangqing.wang@rotman.utoronto.ca)](mailto:xiangqing.wang@rotman.utoronto.ca) if you have any questions or ideas you’d like to share.
 
+
