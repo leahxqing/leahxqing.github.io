@@ -5,19 +5,19 @@ locale                   : "zh-CN"
 title                    : "Xiangqing Wang"
 title_separator          : "-"
 name                     : &name "Xiangqing Wang"
-description              : &description  "Hello! I'm Xiangqing Wang. If you have any questions or thoughts for me, feel free to contact me through email!"
+description              : &description "Hello! I'm Xiangqing Wang, currently a 3rd year undergraduate from the Wang Yanan Institute for Studies in Economics, Xiamen University. My major is economics and my personal field of interest is urban economics. I am also attending the minor program of statistics from WISE. If you have any questions or thoughts for me, feel free to contact me through email!"
 url                      : https://leahxqing.github.io
 baseurl                  : ""
 repository               : "leahxqing/leahxqing.github.io"
 
 # Site Author
 author:
-  avatar           : "me.jpg"
+  avatar           : "profile.png"
   name             : "Xiangqing Wang"
   bio              : "Basic Information Here."
-  location         : "Toronto, Canada"
-  employer         : "University of Toronto"
-  email            : "xiangqing.wang@rotman.utoronto.ca" 
+  location         : "Xiamen, Fujian"
+  employer         : "Xiamen University"
+  email            : "wangxq2003@outlook.com" 
   github           : "leahxqing"
 
 # Site Settings
