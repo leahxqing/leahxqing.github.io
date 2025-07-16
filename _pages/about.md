@@ -19,4 +19,4 @@ Hello! I'm Xiangqing Wang (王湘晴 in Chinese), a fourth-year undergraduate at
 - Major: Economics
 - Minor: Mathematical Statistics
 - Computer Skills: Stata (Proficient), Python (Proficient), $$\LaTeX$$ (Proficient), R (Learning)
-- Email: [xqwang.econ@gmail.com](mailto:xqwang.econ@gmail.com)
+- Email: [xqwang.econ@gmail.com](mailto:xqwang.econ@gmail.com), [xiangqing.wang@rotman.utoronto.ca](mailto:xiangqing.wang@rotman.utoronto.ca)
