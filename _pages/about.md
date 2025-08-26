@@ -13,4 +13,4 @@ Welcome! I am Xiangqing Wang (王湘晴 in Chinese), currently a PhD student at 
 
 My research interests lie in spatial economics, urban economics, and labor economics. 
 
-Email: [wangxq2003@outlook.com](mailto:wangxq2003@outlook.com)
+Email: [xiangqing.wang@rotman.utoronto.ca](mailto:xiangqing.wang@rotman.utoronto.ca), [wangxq2003@outlook.com](mailto:wangxq2003@outlook.com)
