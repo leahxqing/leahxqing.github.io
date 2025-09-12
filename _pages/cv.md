@@ -5,9 +5,9 @@ permalink: /cv/
 author_profile: false
 redirect_from:
   - /resume
-paperurl: 'http://leahxqing.github.io/files/CV_wxq_1017.pdf'
+paperurl: 'http://leahxqing.github.io/files/CV_wxq.pdf'
 ---
 
 {% include base_path %}
 
-You can find my CV [here](http://leahxqing.github.io/files/CV_wxq_1017.pdf) (updated version: 20241017).
+You can find my CV [here](http://leahxqing.github.io/files/CV_wxq.pdf).
